@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.0",
+  "option_operagx_next_version": "1.0.0.1",
+  "option_operagx_game_name": "Super Serious Stuffs",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "e0184f88-ba1c-4952-a186-d0eaa44b7949",
+  "option_operagx_team_name": "acciprovus studio",
+  "option_operagx_team_id": "14ec5ba8-bb3c-4a65-b469-5b3ae82472c3",
+  "option_operagx_editUrl": "https://dev.gx.games/games/e0184f88-ba1c-4952-a186-d0eaa44b7949/details",
+  "option_operagx_internalShareUrl": "https://gx.games/games/0vytzh/super-serious-stuffs/tracks/cbfd031d-4dbb-42ce-b13c-ceaa287a653f/",
+  "option_operagx_publicShareUrl": "",
+}
