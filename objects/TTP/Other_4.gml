@@ -7,9 +7,9 @@ if(room == room_first)
 	/// @DnDVersion : 1
 	/// @DnDHash : 082522B6
 	/// @DnDParent : 02D54290
-	/// @DnDArgument : "x" "96"
+	/// @DnDArgument : "x" "0"
 	/// @DnDArgument : "y" "800"
-	x = 96;
+	x = 0;
 	y = 800;
 }
 
@@ -22,8 +22,8 @@ if(room == room_last)
 	/// @DnDVersion : 1
 	/// @DnDHash : 01D299A9
 	/// @DnDParent : 74944560
-	/// @DnDArgument : "x" "224"
+	/// @DnDArgument : "x" "96"
 	/// @DnDArgument : "y" "288"
-	x = 224;
+	x = 96;
 	y = 288;
 }
