@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "LipidButton",
+  "name": "BiuretButton",
   "spriteId": {
-    "name": "Sprite25",
-    "path": "sprites/Sprite25/Sprite25.yy",
+    "name": "sBiuretButtton",
+    "path": "sprites/sBiuretButtton/sBiuretButtton.yy",
   },
   "solid": false,
   "visible": true,
