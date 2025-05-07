@@ -1,3 +1,6 @@
+/// @description backup of code
+// You can write your code in this editor
+
 var l0FF1F32F_0 = instance_place(mouse_x, mouse_y, PipDis);
 if ((l0FF1F32F_0 > 0))
 {
@@ -12,6 +15,12 @@ else
 		if ((l0E7366BD_0 > 0))
 		{
 			instance_change(PipW, true);
+		}
+		
+		var l0E7366BD_0 = instance_place(mouse_x, mouse_y, BeDye);
+		if ((l0E7366BD_0 > 0))
+		{
+			instance_change(Pip, true);
 		}
 	}
 }
